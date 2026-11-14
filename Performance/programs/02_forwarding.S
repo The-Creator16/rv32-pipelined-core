@@ -1,0 +1,35 @@
+# RAW dependencies: exercise MEM and WB forwarding on both operands
+    addi x1, x0, 1
+    addi x2, x1, 1
+    add x3, x1, x2
+    add x4, x3, x2
+    addi x1, x0, 2
+    addi x2, x1, 1
+    add x3, x1, x2
+    add x4, x3, x2
+    addi x1, x0, 3
+    addi x2, x1, 1
+    add x3, x1, x2
+    add x4, x3, x2
+    addi x1, x0, 4
+    addi x2, x1, 1
+    add x3, x1, x2
+    add x4, x3, x2
+    addi x1, x0, 5
+    addi x2, x1, 1
+    add x3, x1, x2
+    add x4, x3, x2
+    addi x1, x0, 6
+    addi x2, x1, 1
+    add x3, x1, x2
+    add x4, x3, x2
+    addi x1, x0, 7
+    addi x2, x1, 1
+    add x3, x1, x2
+    add x4, x3, x2
+    addi x1, x0, 8
+    addi x2, x1, 1
+    add x3, x1, x2
+    add x4, x3, x2
+finish:
+    addi x31, x0, 123

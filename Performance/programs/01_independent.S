@@ -1,0 +1,35 @@
+# Independent arithmetic: 32 useful ALU instructions, then marker
+    addi x1, x0, 1
+    addi x2, x0, 2
+    addi x3, x0, 3
+    addi x4, x0, 4
+    addi x1, x0, 5
+    addi x2, x0, 6
+    addi x3, x0, 7
+    addi x4, x0, 8
+    addi x1, x0, 9
+    addi x2, x0, 10
+    addi x3, x0, 11
+    addi x4, x0, 12
+    addi x1, x0, 13
+    addi x2, x0, 14
+    addi x3, x0, 15
+    addi x4, x0, 16
+    addi x1, x0, 17
+    addi x2, x0, 18
+    addi x3, x0, 19
+    addi x4, x0, 20
+    addi x1, x0, 21
+    addi x2, x0, 22
+    addi x3, x0, 23
+    addi x4, x0, 24
+    addi x1, x0, 25
+    addi x2, x0, 26
+    addi x3, x0, 27
+    addi x4, x0, 28
+    addi x1, x0, 29
+    addi x2, x0, 30
+    addi x3, x0, 31
+    addi x4, x0, 32
+finish:
+    addi x31, x0, 123

@@ -1,0 +1,2 @@
+name,cycles,retired,cpi,load_use_stalls,branches,taken,mispredictions,predictions,jumps,redirects,flush_d_cycles,flush_e_cycles,forward_mem_operands,forward_wb_operands,stores
+02_forwarding,37,33,1.121212,0,0,0,0,0,0,0,0,0,24,16,0

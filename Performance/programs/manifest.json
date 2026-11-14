@@ -1,0 +1,42 @@
+[
+  {
+    "name": "01_independent",
+    "words": 33,
+    "stop_pc": 128,
+    "retired": 33,
+    "stores": 0,
+    "branches": 0,
+    "taken": 0,
+    "jumps": 0
+  },
+  {
+    "name": "02_forwarding",
+    "words": 33,
+    "stop_pc": 128,
+    "retired": 33,
+    "stores": 0,
+    "branches": 0,
+    "taken": 0,
+    "jumps": 0
+  },
+  {
+    "name": "03_load_use",
+    "words": 49,
+    "stop_pc": 192,
+    "retired": 49,
+    "stores": 8,
+    "branches": 0,
+    "taken": 0,
+    "jumps": 0
+  },
+  {
+    "name": "04_branches",
+    "words": 32,
+    "stop_pc": 84,
+    "retired": 37,
+    "stores": 1,
+    "branches": 14,
+    "taken": 9,
+    "jumps": 2
+  }
+]

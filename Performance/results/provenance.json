@@ -1,0 +1,20 @@
+{
+  "simulator": "Icarus Verilog version 12.0 (stable) ()",
+  "rtl_sha256": {
+    "ALU/ALU32bit.sv": "9aab0f481e2c57c21fd3dd85a6c09f471e33b848650d7a1d905c0159053260b8",
+    "CPU/CPU32bit.sv": "71d8391ffc51f2b49a16537770faf71fb8d6a882652bf505e2a365eac1c313bc",
+    "ControlUnit/CU32bit.sv": "24d6829bd3834ad470064bdf167190e389c773217a01d5b21d584bed1e33f868",
+    "DataMemory/DataMemory.sv": "2ad1c0f9c1a07d614d926b0f48698420ae9a1968067151fa40ad411508dfc9b8",
+    "EarlyBranchingAdder/EarlyBranchingAdder.sv": "2f275213c12deacc64de22e1ababb59de0d01c7ec72a064e23b74d56097cf1c0",
+    "ImmediateGenerator/ImmediateGenerator.sv": "2f3844ec1f63e268f4f207ee3ea62038bf504467d1970e62c87dda3d23689128",
+    "InstructionAdder/InstructionAdder.sv": "2307ec85c889aaa8bccb61d72849305233297f579e7f1888778e59e7d9c6d9d0",
+    "InstructionMemory/InstructionMemory.sv": "4ce6f26c1c434757c0a084c7bb0f573b1b05b2ba2c94fd818cad69bf80ad9694",
+    "PC/PC32bit.sv": "7888bccc9898e99db7bfaf451f7e0831ec9a6097d3d60ea83009a21a6feac0bb",
+    "RegisterFile/RegFile32bit.sv": "8169ebbece6033a014f1316dbce756ae5200a060cee85ab8cb67eb9d51d842bd",
+    "ALU/blocks/CLA32bit.sv": "7abf1ab349f81cbdc7b072e1366229edff394e5fbcfd4099369e2e432599a6b2",
+    "ALU/blocks/CLA4bit.sv": "646b37475e9e039a93f190936b08ba2ead607f5d55939d7877f646a9e92cfb8e",
+    "ALU/blocks/OverflowDetector.sv": "dff74adacb6d193b3994dfc3f34136116bebcb971d0e03bb3442a48193aafe1f",
+    "ALU/blocks/SLL32bit.sv": "5e5d55fd86de1dd67a03c5346522d5207d0e1466ed88409a51b57e5d4c1850e8",
+    "ALU/blocks/SRL_SRA32bit.sv": "a9e745722d21ab43aa1d5e6d513623eb2394cf9a2a15c148fc132849a27a4b2d"
+  }
+}

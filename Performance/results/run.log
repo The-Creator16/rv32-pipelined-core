@@ -1,0 +1,8 @@
+PASS 01_independent cycles=37 retired=33 CPI=1.121212 stalls=0 branches=0 misses=0 jumps=0
+/workspace/scratch/dc53d227ce37/work/rv32-pipelined-core/Performance/tb/Performance_tb.sv:141: $finish called at 385000 (1ps)
+PASS 02_forwarding cycles=37 retired=33 CPI=1.121212 stalls=0 branches=0 misses=0 jumps=0
+/workspace/scratch/dc53d227ce37/work/rv32-pipelined-core/Performance/tb/Performance_tb.sv:141: $finish called at 385000 (1ps)
+PASS 03_load_use cycles=61 retired=49 CPI=1.244898 stalls=8 branches=0 misses=0 jumps=0
+/workspace/scratch/dc53d227ce37/work/rv32-pipelined-core/Performance/tb/Performance_tb.sv:141: $finish called at 625000 (1ps)
+PASS 04_branches cycles=64 retired=37 CPI=1.729730 stalls=0 branches=14 misses=5 jumps=2
+/workspace/scratch/dc53d227ce37/work/rv32-pipelined-core/Performance/tb/Performance_tb.sv:141: $finish called at 655000 (1ps)
